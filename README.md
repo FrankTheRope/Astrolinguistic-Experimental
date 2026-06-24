@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20825952.svg)](https://doi.org/10.5281/zenodo.20825952)
+
 # Experimental Astrolinguistics — Level A: code, results, and logs
 
 Replication archive for the anti-kangaroo protocol (Level A): grounding unknown
@@ -101,8 +103,12 @@ If you use this code or data, please cite the paper and this archive.
 **Paper:** Cordella & Cappelli, *Experimental Astrolinguistics: [full title]*,
 [year]. arXiv:[arXiv ID].
 
-**Software/data archive:** [author list], *Anti-kangaroo protocol — Level A:
-replication archive*, Zenodo, [year]. DOI: [10.5281/zenodo.XXXXXXX]
+**Software/data archive:** Cordella & Cappelli, *Anti-kangaroo protocol —
+Level A: replication archive*, Zenodo, 2026.
+DOI: [10.5281/zenodo.20825952](https://doi.org/10.5281/zenodo.20825952)
+
+The DOI above is the Zenodo "concept" DOI, which always resolves to the latest
+version. Replace the arXiv ID placeholder above once the preprint is posted.
 
 Replace the bracketed placeholders once the arXiv ID and the Zenodo DOI are
 assigned. The Zenodo "concept DOI" (which always resolves to the latest version)
