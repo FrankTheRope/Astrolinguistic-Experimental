@@ -1,0 +1,45 @@
+{"scambio": 1, "scena": {"forma": "cerchio", "colore": "blu", "moto": "rapido", "n": 1}, "risposta_L2": "TIN ZIBO"}
+{"scambio": 2, "scena": {"forma": "cerchio", "colore": "blu", "moto": "fermo", "n": 4}, "risposta_L2": "TAK ZAKA ZEFU"}
+{"scambio": 3, "scena": {"forma": "cerchio", "colore": "blu", "moto": "fermo", "n": 2}, "risposta_L2": "TAK ZEFU ZUMU"}
+{"scambio": 4, "scena": {"forma": "cerchio", "colore": "blu", "moto": "rapido", "n": 3}, "risposta_L2": "ZIBO"}
+{"scambio": 5, "scena": {"forma": "cerchio", "colore": "blu", "moto": "fermo", "n": 1}, "risposta_L2": "TIN ZEFU"}
+{"scambio": 6, "scena": {"forma": "triangolo", "colore": "rosso", "moto": "rapido", "n": 1}, "risposta_L2": "ZUMU"}
+{"scambio": 7, "scena": {"forma": "triangolo", "colore": "blu", "moto": "fermo", "n": 2}, "risposta_L2": "TAK ZEFU"}
+{"scambio": 8, "scena": {"forma": "triangolo", "colore": "rosso", "moto": "fermo", "n": 2}, "risposta_L2": "TAK"}
+{"scambio": 9, "scena": {"forma": "cerchio", "colore": "rosso", "moto": "rapido", "n": 4}, "risposta_L2": "TAK ZUMU"}
+{"scambio": 10, "scena": {"forma": "triangolo", "colore": "rosso", "moto": "rapido", "n": 4}, "risposta_L2": "TAK ZEFU ZUMU"}
+{"scambio": 11, "scena": {"forma": "cerchio", "colore": "blu", "moto": "fermo", "n": 3}, "risposta_L2": "TAK TIN ZEFU"}
+{"scambio": 12, "scena": {"forma": "cerchio", "colore": "blu", "moto": "rapido", "n": 3}, "risposta_L2": "TIN ZEFU ZIBO"}
+{"scambio": 13, "scena": {"forma": "triangolo", "colore": "rosso", "moto": "rapido", "n": 3}, "risposta_L2": "TIN ZUMU"}
+{"scambio": 14, "scena": {"forma": "triangolo", "colore": "rosso", "moto": "rapido", "n": 4}, "risposta_L2": "TAK ZIBO ZUMU"}
+{"scambio": 15, "scena": {"forma": "cerchio", "colore": "rosso", "moto": "rapido", "n": 1}, "risposta_L2": "TIN ZUMU"}
+{"scambio": 16, "scena": {"forma": "cerchio", "colore": "blu", "moto": "rapido", "n": 1}, "risposta_L2": "TIN ZIBO"}
+{"scambio": 17, "scena": {"forma": "triangolo", "colore": "rosso", "moto": "rapido", "n": 3}, "risposta_L2": "TIN ZAKA ZUMU"}
+{"scambio": 18, "scena": {"forma": "cerchio", "colore": "rosso", "moto": "rapido", "n": 3}, "risposta_L2": "TAK TIN ZAKA ZUMU"}
+{"scambio": 19, "scena": {"forma": "cerchio", "colore": "rosso", "moto": "rapido", "n": 4}, "risposta_L2": "TAK ZUMU"}
+{"scambio": 20, "scena": {"forma": "cerchio", "colore": "rosso", "moto": "fermo", "n": 4}, "risposta_L2": "TAK TIN ZAKA"}
+{"scambio": 21, "scena": {"forma": "cerchio", "colore": "blu", "moto": "rapido", "n": 4}, "risposta_L2": "TAK ZIBO"}
+{"scambio": 22, "scena": {"forma": "cerchio", "colore": "rosso", "moto": "rapido", "n": 4}, "risposta_L2": "TAK ZUMU"}
+{"scambio": 23, "scena": {"forma": "triangolo", "colore": "rosso", "moto": "fermo", "n": 3}, "risposta_L2": "TIN ZAKA"}
+{"scambio": 24, "scena": {"forma": "cerchio", "colore": "rosso", "moto": "fermo", "n": 3}, "risposta_L2": "TIN ZAKA"}
+{"scambio": 25, "scena": {"forma": "triangolo", "colore": "rosso", "moto": "fermo", "n": 4}, "risposta_L2": "TAK ZAKA"}
+{"scambio": 26, "scena": {"forma": "triangolo", "colore": "rosso", "moto": "rapido", "n": 4}, "risposta_L2": "ZUMU"}
+{"scambio": 27, "scena": {"forma": "triangolo", "colore": "blu", "moto": "fermo", "n": 1}, "risposta_L2": "TIN ZAKA ZEFU"}
+{"round": 1, "probe": "ZEFU", "predetto": true, "reale": true}
+{"scambio": 28, "scena": {"forma": "cerchio", "colore": "blu", "moto": "fermo", "n": 2}, "risposta_L2": "TAK ZEFU"}
+{"round": 1, "probe": "ZEFU", "predetto": true, "reale": true}
+{"scambio": 29, "scena": {"forma": "triangolo", "colore": "blu", "moto": "fermo", "n": 2}, "risposta_L2": "TAK ZEFU"}
+{"round": 1, "probe": "ZEFU", "predetto": true, "reale": true}
+{"scambio": 30, "scena": {"forma": "triangolo", "colore": "blu", "moto": "rapido", "n": 1}, "risposta_L2": "TAK TIN ZIBO"}
+{"round": 1, "probe": "ZIBO", "predetto": true, "reale": true}
+{"scambio": 31, "scena": {"forma": "cerchio", "colore": "blu", "moto": "rapido", "n": 2}, "risposta_L2": "ZIBO"}
+{"round": 1, "probe": "ZIBO", "predetto": true, "reale": true}
+{"scambio": 32, "scena": {"forma": "triangolo", "colore": "blu", "moto": "rapido", "n": 2}, "risposta_L2": "TAK TIN ZIBO"}
+{"round": 1, "probe": "ZIBO", "predetto": true, "reale": true}
+{"evento": "PROMOZIONE", "parola": "ZIBO", "round": 1}
+{"scambio": 33, "scena": {"forma": "triangolo", "colore": "blu", "moto": "fermo", "n": 3}, "risposta_L2": "TIN ZEFU"}
+{"round": 2, "probe": "ZEFU", "predetto": true, "reale": true}
+{"scambio": 34, "scena": {"forma": "triangolo", "colore": "blu", "moto": "fermo", "n": 4}, "risposta_L2": "TAK ZEFU"}
+{"round": 2, "probe": "ZEFU", "predetto": true, "reale": true}
+{"scambio": 35, "scena": {"forma": "cerchio", "colore": "blu", "moto": "fermo", "n": 1}, "risposta_L2": "TIN ZEFU"}
+{"round": 2, "probe": "ZEFU", "predetto": true, "reale": true}

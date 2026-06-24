@@ -1,0 +1,11 @@
+modo,seed,condizione,giuste,canguri,irrisolte,scambi,rec_r2,fedelta_ok,fedelta_tot,fedelta_pct
+sim,0,casuale_r2,5,0,1,51,0,51,51,100.0
+sim,1,casuale_r2,3,0,3,55,0,55,55,100.0
+sim,2,casuale_r2,4,0,2,60,0,60,60,100.0
+sim,3,casuale_r2,6,0,0,58,0,58,58,100.0
+sim,4,casuale_r2,3,1,2,64,0,64,64,100.0
+sim,5,casuale_r2,2,1,3,53,0,53,53,100.0
+sim,6,casuale_r2,5,0,1,59,0,59,59,100.0
+sim,7,casuale_r2,4,0,2,54,0,54,54,100.0
+sim,8,casuale_r2,3,0,3,65,0,65,65,100.0
+sim,9,casuale_r2,6,0,0,56,0,56,56,100.0

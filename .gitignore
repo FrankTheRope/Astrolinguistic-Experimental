@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Variabili d'ambiente / segreti — non committare mai le chiavi API
+.env
+*.key
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Output di run NON archiviati (rigenerati dagli script).
+# I log e i CSV di questo freeze sono tracciati deliberatamente: vedi README.
+# Se rilanci gli script e generi nuovi file con nomi diversi, valuta se vanno
+# archiviati o ignorati. Esempi di scratch da non committare:
+log_run.jsonl
+risultati_campagna.csv
+risultati_sim_*.csv
+proposte_raw.jsonl

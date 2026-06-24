@@ -1,0 +1,10 @@
+# Dipendenze esterne — solo per le condizioni che usano API LLM
+# (modalità --llm di orchestratore/campagna, braccio llm di condizioni.py,
+#  e hello_world.py). Le modalità SIM, le trappole e lo studio del rumore
+#  girano con la sola standard library di Python.
+#
+# Python 3.10+ richiesto.
+# Versioni fissate a quelle della macchina che ha prodotto i log archiviati.
+
+anthropic==0.109.1
+openai==2.41.0
